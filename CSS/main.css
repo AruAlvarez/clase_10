@@ -1,0 +1,8 @@
+.divCentrado {
+    width: 500px;
+    margin: auto;
+}
+.productos {
+    display: flex;
+    
+}
